@@ -6,13 +6,14 @@ export default function (data) {
     const startChrono = ref(Date.now())
 
     const nextQuestion = () => {
-        if (currentQuestionIndex.value < data.questions.length) {
+        if (currentQuestionIndex.value < data.questions.length - 1)  {
             checkAnswer()
             currentQuestionIndex.value++
             startChrono.value = Date.now()    
             currentAnswer.value = null  
         } else {
             isFinished.value = true
+            console.log('Quizz terminé')
         }
     }
 
