@@ -3,7 +3,7 @@
     "title": "Quizz Histoire",
     "questions": [
       {
-        "tequestionxt": "En quelle année a eu lieu la bataille de Marignan ?",
+        "question": "En quelle année a eu lieu la bataille de Marignan ?",
         "options": ["1515", "1525", "1535", "1545"],
         "answer": "1515"
       },
@@ -13,7 +13,7 @@
         "answer": "1916"
       },
       {
-        "tequestionxt": "En quelle année a eu lieu la bataille de Stalingrad ?",
+        "question": "En quelle année a eu lieu la bataille de Stalingrad ?",
         "options": ["1941", "1942", "1943", "1944"],
         "answer": "1942"
       },
