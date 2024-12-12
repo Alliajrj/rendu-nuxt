@@ -5,7 +5,7 @@
 <template>
     <div>
       <h2>Réponse :</h2>
-        <div v-for="option in quizz.data.questions[quizz.currentQuestionIndex.value].options">
+        <div v-for="option in quizz.data.questions[quizz.currentQuestionIndex.value].options" :key="option">
             <input type="radio" 
             name="quizz-option" 
             :value="option" 

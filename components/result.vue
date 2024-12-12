@@ -9,7 +9,7 @@
         <h2>Score Final: {{ quizz.score }}</h2>
         <div>
             <h3>Les réponses sont : </h3>
-            <div v-for="question in quizz.data.questions">
+            <div v-for="question in quizz.data.questions" :key="question">
                 <p>{{ question.question }}</p>
                 <p>La réponse était : <b>{{ question.answer }}</b></p>
             </div>
