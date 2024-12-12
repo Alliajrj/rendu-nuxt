@@ -3,27 +3,27 @@
     "title": "Quizz Histoire",
     "questions": [
       {
-        "text": "En quelle année a eu lieu la bataille de Marignan ?",
+        "tequestionxt": "En quelle année a eu lieu la bataille de Marignan ?",
         "options": ["1515", "1525", "1535", "1545"],
         "answer": "1515"
       },
       {
-        "text": "En quelle année a eu lieu la bataille de Verdun ?",
+        "question": "En quelle année a eu lieu la bataille de Verdun ?",
         "options": ["1914", "1915", "1916", "1917"],
         "answer": "1916"
       },
       {
-        "text": "En quelle année a eu lieu la bataille de Stalingrad ?",
+        "tequestionxt": "En quelle année a eu lieu la bataille de Stalingrad ?",
         "options": ["1941", "1942", "1943", "1944"],
         "answer": "1942"
       },
       {
-        "text": "En quelle année a eu lieu la bataille de Waterloo ?",
+        "question": "En quelle année a eu lieu la bataille de Waterloo ?",
         "options": ["1812", "1813", "1814", "1815"],
         "answer": "1815"
       },
       {
-        "text": "En quelle année a eu lieu la bataille de Trafalgar ?",
+        "question": "En quelle année a eu lieu la bataille de Trafalgar ?",
         "options": ["1804", "1805", "1806", "1807"],
         "answer": "1805"
       }

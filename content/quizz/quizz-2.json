@@ -3,22 +3,22 @@
     "title": "Quizz F1",
     "questions": [
        {
-        "text": "Quel est le pilote de F1 qui a remporté le plus de titres de champion du monde ?",
+        "question": "Quel est le pilote de F1 qui a remporté le plus de titres de champion du monde ?",
         "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Alain Prost"],
         "answer": "Michael Schumacher"
        },
        {
-        "text": "Quel est le pilote de F1 qui a remporté le plus de victoires en une saison ?",
+        "question": "Quel est le pilote de F1 qui a remporté le plus de victoires en une saison ?",
         "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Alain Prost"],
         "answer": "Lewis Hamilton"
        },
        {
-        "text": "Quel est le pilote de F1 qui a remporté le plus de victoires en carrière ?",
+        "question": "Quel est le pilote de F1 qui a remporté le plus de victoires en carrière ?",
         "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Alain Prost"],
         "answer": "Lewis Hamilton"
        },
        {
-        "text": "Quel est le pilote de F1 qui a remporté le plus de victoires en une saison ?",
+        "question": "Quel est le pilote de F1 qui a remporté le plus de victoires en une saison ?",
         "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Alain Prost"],
         "answer": "Lewis Hamilton"
        }
