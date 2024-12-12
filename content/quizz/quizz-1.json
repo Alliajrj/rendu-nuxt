@@ -1,0 +1,31 @@
+{
+    "slug": "quizz-1",
+    "title": "Quizz Pokemon",
+    "questions": [
+        {
+        "question": "Quel est le type de Pikachu ?",
+        "options": ["Electrique", "Feu", "Eau", "Plante"],
+        "answer": "Electrique"
+    },
+    {
+        "question": "Quel est le type de Salamèche ?",
+        "options": ["Electrique", "Feu", "Eau", "Plante"],
+        "answer": "Feu"
+    },
+    {
+        "question": "Quel est le type de Carapuce ?",
+        "options": ["Electrique", "Feu", "Eau", "Plante"],
+        "answer": "Eau"
+    },
+    {
+        "question": "Quel est le type de Bulbizarre ?",
+        "options": ["Electrique", "Feu", "Eau", "Plante"],
+        "answer": "Plante"
+    },
+    {
+        "question": "Quel est le type de Dracaufeu ?",
+        "options": ["Electrique", "Feu", "Eau", "Plante"],
+        "answer": "Feu"
+    }
+]
+}
