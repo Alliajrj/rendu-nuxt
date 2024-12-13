@@ -1,8 +1,7 @@
-export default async function () {
-    const quizzs = await queryContent('quizz').find();
+export default function (quizs) {
 
     return {
-        quizzs
+        quizs
     }
 
 }

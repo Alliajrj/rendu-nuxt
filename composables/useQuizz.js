@@ -26,7 +26,7 @@ export default function (data) {
     }
 
     // Bonus
-    
+
     const checkAnswer = () => {
         const time = (Date.now() - startChrono.value) / 1000
         if (currentAnswer.value === data.questions[currentQuestionIndex.value].answer) {
