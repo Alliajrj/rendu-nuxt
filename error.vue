@@ -3,14 +3,11 @@
     <div class="prose">
       <h1>404!</h1>
       <p>Oula c'est la tuile !</p>
-      <NuxtLink to="/">Retour maison</NuxtLink>
+      <NuxtLink to="/">Retour lobby</NuxtLink>
     </div>
   </NuxtLayout>
 </template>
 
 <script setup>
-
   defineProps(['error']);
-
-  const handleError = () => clearError({ redirect: '/' })
 </script>
