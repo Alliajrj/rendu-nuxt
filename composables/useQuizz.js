@@ -17,6 +17,16 @@ export default function (data) {
         }
     }
 
+    
+    const resetQuizz = () => {
+        score.value = 0
+        currentQuestionIndex.value = 0
+        currentAnswer.value = null
+        isFinished.value = false
+    }
+
+    // Bonus
+    
     const checkAnswer = () => {
         const time = (Date.now() - startChrono.value) / 1000
         if (currentAnswer.value === data.questions[currentQuestionIndex.value].answer) {
@@ -28,13 +38,6 @@ export default function (data) {
                 score.value += 1
             }
         }
-    }
-
-    const resetQuizz = () => {
-        score.value = 0
-        currentQuestionIndex.value = 0
-        currentAnswer.value = null
-        isFinished.value = false
     }
 
     const roundScore = () => {

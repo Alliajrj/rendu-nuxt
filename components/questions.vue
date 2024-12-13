@@ -1,5 +1,6 @@
 <script setup>
     const quizz= inject('quizz');
+    quizz.roundScore()
 </script>
 
 <template>
