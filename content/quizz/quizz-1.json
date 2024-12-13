@@ -1,31 +1,46 @@
 {
-    "slug": "quizz-1",
-    "title": "Quizz Pokemon",
-    "questions": [
-        {
-        "question": "Quel est le type de Pikachu ?",
-        "options": ["Electrique", "Feu", "Eau", "Plante"],
-        "answer": "Electrique"
-    },
-    {
-        "question": "Quel est le type de Salamèche ?",
-        "options": ["Electrique", "Feu", "Eau", "Plante"],
-        "answer": "Feu"
-    },
-    {
-        "question": "Quel est le type de Carapuce ?",
-        "options": ["Electrique", "Feu", "Eau", "Plante"],
-        "answer": "Eau"
-    },
-    {
-        "question": "Quel est le type de Bulbizarre ?",
-        "options": ["Electrique", "Feu", "Eau", "Plante"],
-        "answer": "Plante"
-    },
-    {
-        "question": "Quel est le type de Dracaufeu ?",
-        "options": ["Electrique", "Feu", "Eau", "Plante"],
-        "answer": "Feu"
-    }
-]
+	"slug": "quizz-musicals",
+	"title": "Quizz Comédies Musicales",
+	"questions": [
+		{
+			"question": "Dans quelle comédie musicale trouve-t-on la chanson 'Do-Re-Mi'?",
+			"options": [
+				"Les Misérables",
+				"Le Roi Lion",
+				"La Mélodie du Bonheur",
+				"Chicago"
+			],
+			"answer": "La Mélodie du Bonheur"
+		},
+		{
+			"question": "Quel est le nom de la comédie musicale basée sur les chansons du groupe ABBA?",
+			"options": ["Mamma Mia!", "Grease", "Cats", "West Side Story"],
+			"answer": "Mamma Mia!"
+		},
+		{
+			"question": "Dans quelle comédie musicale trouve-t-on le personnage de Jean Valjean?",
+			"options": [
+				"Les Misérables",
+				"Le Fantôme de l'Opéra",
+				"Rent",
+				"Wicked"
+			],
+			"answer": "Les Misérables"
+		},
+		{
+			"question": "Quelle comédie musicale se déroule dans le quartier de Washington Heights à New York?",
+			"options": [
+				"Hamilton",
+				"In the Heights",
+				"Dear Evan Hansen",
+				"Hairspray"
+			],
+			"answer": "In the Heights"
+		},
+		{
+			"question": "Dans quelle comédie musicale trouve-t-on la chanson 'Defying Gravity'?",
+			"options": ["Wicked", "The Book of Mormon", "Aladdin", "Frozen"],
+			"answer": "Wicked"
+		}
+	]
 }

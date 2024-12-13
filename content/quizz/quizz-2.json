@@ -1,26 +1,56 @@
 {
-    "slug": "quizz-2",
-    "title": "Quizz F1",
-    "questions": [
-       {
-        "question": "Quel est le pilote de F1 qui a remporté le plus de titres de champion du monde ?",
-        "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Alain Prost"],
-        "answer": "Michael Schumacher"
-       },
-       {
-        "question": "Quel est le pilote de F1 qui a remporté le plus de victoires en une saison ?",
-        "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Alain Prost"],
-        "answer": "Lewis Hamilton"
-       },
-       {
-        "question": "Quel est le pilote de F1 qui a remporté le plus de victoires en carrière ?",
-        "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Alain Prost"],
-        "answer": "Lewis Hamilton"
-       },
-       {
-        "question": "Quel est le pilote de F1 qui a remporté le plus de victoires en une saison ?",
-        "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Alain Prost"],
-        "answer": "Lewis Hamilton"
-       }
-]
+	"slug": "quizz-2000s-movies",
+	"title": "Quizz Films des Années 2000",
+	"questions": [
+		{
+			"question": "Quel film de 2001 a remporté l'Oscar du meilleur film ?",
+			"options": [
+				"Gladiator",
+				"A Beautiful Mind",
+				"The Lord of the Rings: The Fellowship of the Ring",
+				"Moulin Rouge!"
+			],
+			"answer": "A Beautiful Mind"
+		},
+		{
+			"question": "Quel film de 2008 met en vedette Heath Ledger dans le rôle du Joker ?",
+			"options": [
+				"The Dark Knight",
+				"Iron Man",
+				"Inception",
+				"The Prestige"
+			],
+			"answer": "The Dark Knight"
+		},
+		{
+			"question": "Quel film de 2003 est basé sur une série de livres écrite par J.R.R. Tolkien ?",
+			"options": [
+				"Harry Potter and the Sorcerer's Stone",
+				"The Lord of the Rings: The Return of the King",
+				"The Chronicles of Narnia",
+				"Eragon"
+			],
+			"answer": "The Lord of the Rings: The Return of the King"
+		},
+		{
+			"question": "Quel film de 2004 raconte l'histoire d'un boxeur féminin entraîné par Clint Eastwood ?",
+			"options": [
+				"Million Dollar Baby",
+				"Rocky Balboa",
+				"Cinderella Man",
+				"The Fighter"
+			],
+			"answer": "Million Dollar Baby"
+		},
+		{
+			"question": "Quel film de 2006 met en vedette Leonardo DiCaprio et Matt Damon dans un thriller policier ?",
+			"options": [
+				"The Departed",
+				"Blood Diamond",
+				"Catch Me If You Can",
+				"Shutter Island"
+			],
+			"answer": "The Departed"
+		}
+	]
 }

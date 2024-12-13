@@ -1,31 +1,41 @@
 {
-    "slug": "quizz-3",
-    "title": "Quizz Histoire",
-    "questions": [
-      {
-        "question": "En quelle année a eu lieu la bataille de Marignan ?",
-        "options": ["1515", "1525", "1535", "1545"],
-        "answer": "1515"
-      },
-      {
-        "question": "En quelle année a eu lieu la bataille de Verdun ?",
-        "options": ["1914", "1915", "1916", "1917"],
-        "answer": "1916"
-      },
-      {
-        "question": "En quelle année a eu lieu la bataille de Stalingrad ?",
-        "options": ["1941", "1942", "1943", "1944"],
-        "answer": "1942"
-      },
-      {
-        "question": "En quelle année a eu lieu la bataille de Waterloo ?",
-        "options": ["1812", "1813", "1814", "1815"],
-        "answer": "1815"
-      },
-      {
-        "question": "En quelle année a eu lieu la bataille de Trafalgar ?",
-        "options": ["1804", "1805", "1806", "1807"],
-        "answer": "1805"
-      }
-    ]
+	"slug": "quizz-sports",
+	"title": "Quizz Sport",
+	"questions": [
+		{
+			"question": "Quel joueur de basketball est surnommé 'King James' ?",
+			"options": [
+				"Michael Jordan",
+				"LeBron James",
+				"Kobe Bryant",
+				"Shaquille O'Neal"
+			],
+			"answer": "LeBron James"
+		},
+		{
+			"question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+			"options": ["Allemagne", "Brésil", "France", "Argentine"],
+			"answer": "France"
+		},
+		{
+			"question": "Quel joueur de tennis a remporté le plus de titres du Grand Chelem ?",
+			"options": [
+				"Roger Federer",
+				"Rafael Nadal",
+				"Novak Djokovic",
+				"Pete Sampras"
+			],
+			"answer": "Rafael Nadal"
+		},
+		{
+			"question": "Quel athlète détient le record du monde du 100 mètres ?",
+			"options": ["Carl Lewis", "Usain Bolt", "Tyson Gay", "Yohan Blake"],
+			"answer": "Usain Bolt"
+		},
+		{
+			"question": "Quel pays a remporté le plus de médailles aux Jeux Olympiques d'été de 2016 ?",
+			"options": ["Chine", "Grande-Bretagne", "Russie", "États-Unis"],
+			"answer": "États-Unis"
+		}
+	]
 }
